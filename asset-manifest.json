@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/reserve-app/static/css/main.4680dbf8.css",
+    "main.js": "/reserve-app/static/js/main.aea12855.js",
+    "static/media/Bus7.jpg": "/reserve-app/static/media/Bus7.459c094deaba02f8a64a.jpg",
+    "static/media/Happy2.jpg": "/reserve-app/static/media/Happy2.85f74b6fa0dd8d11a58a.jpg",
+    "static/media/Bus6.jpg": "/reserve-app/static/media/Bus6.b150c94858445f86aa96.jpg",
+    "static/media/Busstop.jpg": "/reserve-app/static/media/Busstop.ba4e566439cf8281bff9.jpg",
+    "static/media/redux.cjs": "/reserve-app/static/media/redux.7edfc461ab353f1712ab.cjs",
+    "index.html": "/reserve-app/index.html",
+    "main.4680dbf8.css.map": "/reserve-app/static/css/main.4680dbf8.css.map",
+    "main.aea12855.js.map": "/reserve-app/static/js/main.aea12855.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4680dbf8.css",
+    "static/js/main.aea12855.js"
+  ]
+}
